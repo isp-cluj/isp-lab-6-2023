@@ -186,7 +186,7 @@
 											"top": 148,
 											"width": 151.41064453125,
 											"height": 13,
-											"text": "+equals(product): boolean",
+											"text": "+equals(user): boolean",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3413,8 +3413,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGHPJtuP5WY/7k="
 									},
-									"name": "product",
-									"type": ""
+									"name": "user"
 								},
 								{
 									"_type": "UMLParameter",
@@ -3757,7 +3756,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHPJnzyIl7GNg="
 									},
-									"name": "product"
+									"name": "product",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -3765,7 +3765,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHPJnzyIl7GNg="
 									},
-									"name": "quatity"
+									"name": "quatity",
+									"type": ""
 								}
 							]
 						}
@@ -3968,7 +3969,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHHXVJXV6IzN0="
 									},
-									"name": "username"
+									"name": "username",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -3976,7 +3978,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHHXVJXV6IzN0="
 									},
-									"name": "product"
+									"name": "product",
+									"type": ""
 								},
 								{
 									"_type": "UMLParameter",
@@ -3984,7 +3987,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGHHXVJXV6IzN0="
 									},
-									"name": "quantity"
+									"name": "quantity",
+									"type": ""
 								}
 							]
 						},
