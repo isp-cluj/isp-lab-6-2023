@@ -8,10 +8,11 @@ The system should be able to store a student's name, ID, and their grades for mu
 It should also be able to perform the following operations:
 
 1. Add a student to the list.
-2. Remove a student from the list.
-3. Update a student's information.
-4. Calculate the average grade of a student.
-5. Display the list of students.
+2. Add student grades.
+3. Remove a student from the list.
+4. Update a student's information.
+5. Calculate the average grade of a student.
+6. Display the list of students.
 
 Add minimal unit tests for the first 4 operations.
 
