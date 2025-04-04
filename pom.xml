@@ -27,6 +27,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
+        <java.compile-verison>21</java.compile-verison>
         <!-- class that has the main method -->
         <mainClass>isp.lab6.Example</mainClass>
         <!-- name appended to standard jar name to indicate shaded/executable version -->
